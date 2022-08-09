@@ -383,9 +383,9 @@
                 href="Part_1034_T48_5043211.dita"
                 props="PART 1034"
                 outputclass="Part">
-         <topicref navtitle="Subpart 34.0 - General"
-                   href="Subpart_34_0_T48_50432111.dita"
-                   props="Subpart 34.0"
+         <topicref navtitle="Subpart 1034.0 - General"
+                   href="Subpart_1034_0_T48_50432111.dita"
+                   props="Subpart 1034.0"
                    outputclass="SubPart">
             <topicref navtitle="1034.001   Definitions."
                       href="Section_1034_001_T48_5043211111.dita"
